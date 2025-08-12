@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Achinta  
 
-<!--
-**Achinta-codes/Achinta-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Python**, **Data Analysis**, and **AI/ML**  
+📚 Learning daily, one step at a time  
+🌟 Building projects & sharing my journey here on GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib  
+- **Tools:** Git, GitHub, Jupyter Notebook  
+
+---
+
+## 📌 Current Goals
+- Refresh **Python** from basics to advanced
+- Complete **Data Science** course
+- Start AI/ML mini projects
+
+⭐ **Fun Fact:** I learn best with chai ☕ and late-night coding sessions!
